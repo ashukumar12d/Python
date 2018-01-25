@@ -1,0 +1,2 @@
+This    line     has       extra space                  characters
+"Hi, this is dbda'10 pc running windows`7."
